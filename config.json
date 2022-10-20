@@ -1,0 +1,19 @@
+{
+  "ownerNumber": ["6283879685072@s.whatsapp.net"], 
+  "ownerName": ["Stiff Totemo"], 
+  "botName": "Stiff MD", 
+  "youtubeOwner": "https://tiktok.com/@omstiff404", 
+  "web": "https://lolhuman.xyz/", 
+  "donasiQris": "https://i.ibb.co/CVMrYwV/Qris-Tsuyuzaki.jpg",
+  "donasiPulsa": "083879685072", 
+  "footer": "© Stiff Totemo", 
+  "fake": "© Create Stiff MD", 
+  "sessionName": "session",
+  "pathimg": "./media/logo.jpg",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 99999,
+	"user": 100
+  }
+}
